@@ -79,6 +79,8 @@ body{
 	margin: 0 0 10px 0;
   }
   .img-thumbnail{
+	width: 266px;
+	height: 200px;
 	opacity: 0.8;
 	border: none!important;
   }
@@ -87,7 +89,9 @@ body{
   }
   .work{
 	float: left;
-	width: 274px;
+	clear: both;
+	width: 200px;
+	height: 200px;
 	margin: 25px;
   }
   h3{
